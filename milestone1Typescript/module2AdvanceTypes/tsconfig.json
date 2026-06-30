@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "commonjs",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "strict": true,
+    "noEmitOnError": false,
+    "sourceMap": true,
+    "declaration": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
